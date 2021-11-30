@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/tufvu/tufvu/master/etc/StoreFiles"
         }
     },
-    "website":"https://github.com/tufvu/tufv"
-    "repository": "https://github.com/tufvu/tufv",
+    "website":"https://github.com/tufvu/tufvu"
+    "repository": "https://github.com/tufvu/tufvu",
     "stack": "container"
 }
