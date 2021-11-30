@@ -29,9 +29,9 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/tufvu/tufvu/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/DaoChen6/IF-XTW/master/etc/StoreFiles"
         }
     },
-     "repository": "",
-   
+    "repository": "",
+    "stack": "container"
 }
